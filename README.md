@@ -76,4 +76,4 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
 Suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 Note to self:
-Don't forget the hidden page that nobody will ever find except me <i>/h1ddens3cretf0lder</i>
+Don't forget the hidden page that nobody will ever find except me <i>/h1ddens3cretf0lder.html</i>
