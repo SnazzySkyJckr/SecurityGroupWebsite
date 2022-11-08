@@ -1,6 +1,6 @@
 # SecurityGroupWebsite
 
-Hi guys I'm a Junior Developer and have created a small web application project :-)
+Hi guys I'm a Junior Developer and am attempting to create a small web application project :-)
 
 Security Group 
 ![image](https://user-images.githubusercontent.com/62250827/198988893-2ecb643c-9692-44d1-b384-42fa022a5f76.png)
@@ -10,7 +10,7 @@ The web application was a template downloaded from https://www.free-css.com
 Using the Security Group template found at: https://www.free-css.com/free-css-templates/page161/securitygroup
 Additional kudo's to the templatemonster.com team aswell
 
-The original template comes with the following pages:
+The original template comes with the following menu items:
 - About
 - Services
 - Products
@@ -19,9 +19,9 @@ The original template comes with the following pages:
 - Contacts
 ![image](https://user-images.githubusercontent.com/62250827/198989458-cfa16539-74c4-4c38-8f2a-b0b538b056f3.png)
 
-Alot of additional information and development has been added to the base template. For example the Lorem Ipsom information has been changed to accomadate real wording:
+Alot of additional information and development has been added to the base template. For example the Lorem Ipsom information has been changed to accomodate the following wording:
 ![image](https://user-images.githubusercontent.com/62250827/198989737-d330939f-f1b6-4857-9e87-714184b93fa4.png)
-
+In addition to the changes above the following has been done
 <h2>About Page</h2>
 Introduces the website with the products and offerings that will in place
 
