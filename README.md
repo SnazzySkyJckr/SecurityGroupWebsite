@@ -23,6 +23,7 @@ Alot of additional information and development has been added to the base templa
 ![image](https://user-images.githubusercontent.com/62250827/198989737-d330939f-f1b6-4857-9e87-714184b93fa4.png)
 In addition to the changes above the following has been done
 <h2>About Page</h2>
+
 Links to the default web application page or index.
 
 ![image](https://user-images.githubusercontent.com/62250827/201071612-a33dfc6e-ddd3-4693-a21a-af3db6db4a33.png)
@@ -104,4 +105,4 @@ Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
 
 Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
 
-Suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Note to self: Don't forget the hidden page that nobody will ever find except me <i>/h1ddens3cretf0lder.html</i>
+Suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Note to self: Don't forget to add a README on the websites hidden file that nobody will ever find <i>/h1ddens3cretf0lder.html</i>
