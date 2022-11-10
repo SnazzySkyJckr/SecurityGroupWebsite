@@ -23,9 +23,25 @@ Alot of additional information and development has been added to the base templa
 ![image](https://user-images.githubusercontent.com/62250827/198989737-d330939f-f1b6-4857-9e87-714184b93fa4.png)
 In addition to the changes above the following has been done
 <h2>About Page</h2>
-Introduces the website with the products and offerings that will in place
+Links to the default web application page or index.
+
+![image](https://user-images.githubusercontent.com/62250827/201071612-a33dfc6e-ddd3-4693-a21a-af3db6db4a33.png)
+
+The page is still under construction but there is something interesting here, look further down the page.
+
+Added sections include:
+
+-Security Systems for Home
+
+-Security Systems for Office
+
+-Special Security Systems
+
 
 <h2>Services Page</h2>
+
+At Security GRoup we have multiple levels of Service ranging from Premium to Silver packages like so:
+
 Professional Security Service Levels:
 Premium Service
 
@@ -42,7 +58,16 @@ Silver Service
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata.
+
+Has been modified
+
+![image](https://user-images.githubusercontent.com/62250827/201072457-26e6c6f1-ecfe-4af6-acea-572792f75128.png)
+
+
 <h2>Products Page</h2>
+
+The products pages lists all the various products we have on sale as Security group.
+
 Products List
 
     At vero eos et accusam et justo duo
@@ -52,8 +77,12 @@ Products List
     Sadipscing elitr, sed diam nonumy
     Eirmod tempor invidunt ut labore
     Dolore magna aliquyam erat, sed diam
+ The original page has been modified
+ 
+ ![image](https://user-images.githubusercontent.com/62250827/201073051-49e958bc-3f69-4b06-86d2-2e62f7b5e5de.png)
+
 <h2>Employment Page</h2>
-Careers
+This section requires me to contact the HR department at work.
 
 Lorem ipsum dolor sit amet. Lorem ipsum dolor amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
 
@@ -63,6 +92,8 @@ Lorem ipsum dolor sit amet. Lorem ipsum dolor amet, consetetur sadipscing elitr,
     Lorem ipsum dolor sit amet sum dolor sit amet
 
 Nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
+
+Alot of this page is still under-construction
 
 <h2>FAQ Page</h2>
 How We Recruit
